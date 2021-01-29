@@ -1,0 +1,9 @@
+#icon {
+    width: 95vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(31, 192, 10);
+    font-size: 20em;
+}
